@@ -8,7 +8,7 @@ The final paper is written for an academic audience with appropriate MLA or Chic
 
 1. [Week 2 notebook](https://colab.research.google.com/drive/1QASy02ehi2le1uRHSbwzWOA4zOk-Gaqp?usp=drive_link)
 2. [Week 3 notebook](https://colab.research.google.com/drive/1Eclt5WRydlquMv6YBMJYPRtBth4ptIaS?usp=drive_link)
-3. [Week 4 notebook](https://drive.google.com/file/d/1EjjbVnFANNpyt4BZxVj4A6U2VvLPsoht/view?usp=drive_link)
+3. [Week 4 notebook](https://colab.research.google.com/drive/1EjjbVnFANNpyt4BZxVj4A6U2VvLPsoht)
 4. [Week 5 notebook](https://colab.research.google.com/drive/1O8qVlNp5vgcsaThVX6UzY2laCYiC_5Ga?usp=drive_link)
 5. [Week 7 notebook](https://colab.research.google.com/drive/1DlHnb7465QR5V9aY-_BrDSGED6tw_Sly?usp=drive_link)
 6. [Week 8 notebook](https://colab.research.google.com/drive/1e583Q3B4VzJCL6M6usIbYr6RyLGa91MU?ouid=104162058846152915236&usp=drive_link)
