@@ -1,25 +1,29 @@
 # Text Analysis Portfolio
 
-This repository serves as a portfolio for my work in Text Analysis. It includes all weekly assignments and a final position paper making a case on the question: "Can there be a feminist text analysis?".
+This repository serves as a portfolio for my work in Text Analysis.
 
-The final paper is written for an academic audience with appropriate MLA or Chicago Manual Style and includes relevant citations. The paper draws from examples in the weekly notebook assignments and secondary sources.
+The final paper is written for an academic audience with appropriate MLA or Chicago Manual Style and includes relevant citations. The paper draws from examples in the weekly, reading, notebook assignments, and secondary sources.
 
 ## Content
 
-1. [Weekly Assignment 1](<link-to-colab-notebook-1>)
-2. [Weekly Assignment 2](<link-to-colab-notebook-2>)
-3. [Weekly Assignment 3](<link-to-colab-notebook-3>)
-4. [Weekly Assignment 4](<link-to-colab-notebook-4>)
-5. [Weekly Assignment 5](<link-to-colab-notebook-5>)
-6. [Final Position Paper](./EmbeddedHumanities_AtilioBarredaII.pdf)
+1. [Week 2 notebook](https://colab.research.google.com/drive/1QASy02ehi2le1uRHSbwzWOA4zOk-Gaqp?usp=drive_link)
+2. [Week 3 notebook](https://colab.research.google.com/drive/1Eclt5WRydlquMv6YBMJYPRtBth4ptIaS?usp=drive_link)
+3. [Week 4 notebook](https://drive.google.com/file/d/1EjjbVnFANNpyt4BZxVj4A6U2VvLPsoht/view?usp=drive_link)
+4. [Week 5 notebook](https://colab.research.google.com/drive/1O8qVlNp5vgcsaThVX6UzY2laCYiC_5Ga?usp=drive_link)
+5. [Week 7 notebook](https://colab.research.google.com/drive/1DlHnb7465QR5V9aY-_BrDSGED6tw_Sly?usp=drive_link)
+6. [HDTMT - GPT API code assistantt](https://femethods2023.commons.gc.cuny.edu/hdmt-atilio/)
+7. [Final Position Paper](./EmbeddedHumanities_AtilioBarredaII.pdf)
+
 
 ## Weekly Assignments
 
-Each link above will direct you to one of the weekly assignments. These assignments explore various aspects of text analysis.
+Each link above will direct you to one of the weekly assignments.
 
 ## Final Position Paper
 
-The final position paper dives into the question: "Can there be a feminist text analysis?" The paper provides a thoughtful analysis and takes a stance on this topic, drawing examples from the notebook assignments and secondary sources. You can download the PDF file directly from this repository.
+In this scholarly exploration titled "Embedded Humanities", we delve into the intersections of computational methodologies and the humanities, tackling the question, "Can there be a feminist text analysis?". Our discourse is deeply rooted in a critical perspective, unraveling patriarchal biases embedded in the foundational statistical reasoning that dates back to Galton's flawed hypothesis. This work highlights the inherent 'situatedness' of scientific truths, arguing for the necessity of adopting a situated and feminist objectivity in computational analysis.
+
+For a complete understanding of our insights, the position paper can be accessed and downloaded as a PDF file directly from this repository.
 
 ## Contact
 
